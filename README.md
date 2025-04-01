@@ -27,29 +27,18 @@ Follow these steps to set up and run the project locally.
 
 ### 1️⃣ Clone the Repository
 ```sh
-Copy
-Edit
 git clone https://github.com/Mohak0325/todo-app.git
 cd todo-app
 ```
 ### 2️⃣ Install Dependencies
 ```sh
-Copy
-Edit
 npm install
 ```
-
 ### 3️⃣ Create .env File (For API Key)
 Inside the project folder, create a .env file and add your API Ninjas key:
-```ini
-Copy
-Edit
-```
 
 ### 4️⃣ Start the Development Server
 ```sh
-Copy
-Edit
 npm run dev
 ```
 
